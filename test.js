@@ -4,3 +4,5 @@ const test = function() {
 
 // test()
 module.exports = test
+
+console.log('Yozaaaaaaaa')
