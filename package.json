@@ -1,0 +1,19 @@
+{
+  "name": "notepad",
+  "version": "1.0.0",
+  "description": "this is a class example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rory-Folster/peer_coding_web602.git"
+  },
+  "author": "Rory Folster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rory-Folster/peer_coding_web602/issues"
+  },
+  "homepage": "https://github.com/Rory-Folster/peer_coding_web602#readme"
+}
